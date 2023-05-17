@@ -1,0 +1,11 @@
+@media screen and (maxwidth: 992px) {
+  .responsiveCard {
+    width: 50%;
+  }
+}
+
+@media screen and (maxwidth: 676px) {
+  .responsiveCard {
+    width: 75% !important;
+  }
+}
